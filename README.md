@@ -56,7 +56,7 @@ python astar_visualizer.py
 - **Find Path Button**: Manually trigger pathfinding (automatic by default).
 - **Random Grid Button**: Generate a new grid with random obstacles.
 
-## `astar_visualizer.py` Structure
+## `astar_pathfinding.py` Structure
 
 - **Path class**: Represents connections between nodes.
 - **Node class**: A* algorithm node with f, g, h values.
