@@ -99,7 +99,7 @@ The A* (A-star) algorithm is a graph traversal and path search algorithm that fi
 - **Graph Representation**: Adjacency list for efficient neighbor lookup.
 
 ## Demo
-Watch a demo of the application in action: [Google Drive Demo Video]([https://drive.google.com/file/d/1D7G-svOo40RUnJ-nlzynGmYMUG_TtmTS/view?usp=sharing])
+Watch a demo of the application in action: [Google Drive Demo Video](https://drive.google.com/file/d/1D7G-svOo40RUnJ-nlzynGmYMUG_TtmTS/view?usp=sharing)
 
 ## Example Output
 
